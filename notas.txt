@@ -1,1 +1,8 @@
+Commands:
+- Clone: 
+- Fetch repo 
+- pull: git pull
+
+Ramas:
+Las ramas nos permiten agregar comits de una manera segura sin alterar directamente la rama principal (main).
 - buenas practicas
